@@ -1,4 +1,4 @@
-# MilEventQA: A Military Domain Event-Centric QA Benchmark for RAG
+﻿# MilEventQA: A Military Domain Event-Centric QA Benchmark for RAG
 
 ## 📖 Introduction
 
@@ -17,7 +17,7 @@ A systematic audit, repair, and relevance augmentation of the evaluation benchma
 
 - **Query repair**: rule-based scanning detected 700 truncated/incomplete queries; all were regenerated from their original anchors (same gold answer, same event anchor) with reinforced filtering.
 - **Entry removal**: 26 queries whose gold answers cannot be objectively judged by exact match were removed (16 relative-time golds such as "本周"/"昨日", 10 vague golds such as "硬件"). QA pairs: 15,360 → 15,334.
-- **Relevance augmentation (qrels v2)**: unannotated top-10 retrieved documents were pooled, gold-string pre-filtering plus LLM consistency filtering were applied, and 9,682 additional relevance judgments were appended. qrels: 25,015 judgments total; 5,565 queries (36.3%) have multiple positives, averaging 1.63 positives per query.
+- **Relevance augmentation**: unannotated top-10 retrieved documents were pooled, gold-string pre-filtering plus LLM consistency filtering were applied, and 9,682 additional relevance judgments were appended. qrels: 25,015 judgments total; 5,565 queries (36.3%) have multiple positives, averaging 1.63 positives per query.
 - **Full LLM quality audit**: all 15,344 queries were audited on four dimensions (correctness, naturalness, answerability, ambiguity) with a 99.8% pass rate; flagged entries are released in `quality_audit.jsonl`.
 - **Human validation**: an independent human annotator re-labeled a 300-item random sample under the same four-dimension protocol; judgment-level agreement with the LLM audit was 93.3% (released in `human_validation.jsonl`).
 - **Human-written subset**: 350 queries independently written by two team members from the same document-answer anchors as the synthetic queries (released in `human_subset/`).
