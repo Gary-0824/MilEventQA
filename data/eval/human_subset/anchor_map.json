@@ -1,0 +1,2802 @@
+[
+ {
+  "hqid": "hA0001",
+  "orig_qid": "q11916",
+  "question": "哪支部队正在测试用于反水雷的阿里斯特100s自主潜航器？",
+  "gold": "法国海军",
+  "pos_doc": "cmnee_test_2070",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0002",
+  "orig_qid": "q13318",
+  "question": "沙波什尼科夫元帅号驱逐舰是在什么时候率先完成现代化改造的？",
+  "gold": "今年7月",
+  "pos_doc": "cmnee_test_2453",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0003",
+  "orig_qid": "q70",
+  "question": "JHSV首舰先锋号于2012年12月交付后进驻了哪里？",
+  "gold": "母港",
+  "pos_doc": "cmnee_valid_24",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0004",
+  "orig_qid": "q6585",
+  "question": "2016年11月阿里安娜-5火箭发射四颗伽利略导航卫星用的是哪个发射场？",
+  "gold": "法属圭亚那航天发射场",
+  "pos_doc": "cmnee_test_327",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0005",
+  "orig_qid": "q10269",
+  "question": "哪家集团旗下的洛里昂船厂下水了法国第四艘FREMM护卫舰？",
+  "gold": "DCNS集团",
+  "pos_doc": "cmnee_test_1616",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0006",
+  "orig_qid": "q13118",
+  "question": "乌克兰在罗夫诺核电站3号机组测试乏燃料罐是在哪个时间段进行的？",
+  "gold": "6月28日至8月5日",
+  "pos_doc": "cmnee_test_2394",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0007",
+  "orig_qid": "q6919",
+  "question": "哪支部队在阿斯特拉罕州举行了伊斯坎德尔-M导弹打击训练演习？",
+  "gold": "俄罗斯南部军区第58诸兵种合成集团军驻北奥塞梯导弹兵团",
+  "pos_doc": "cmnee_test_431",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0008",
+  "orig_qid": "q13478",
+  "question": "谁计划在太平洋上空进行首次夜间弹道导弹拦截试验？",
+  "gold": "美军",
+  "pos_doc": "cmnee_test_2476",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0009",
+  "orig_qid": "q4847",
+  "question": "哪家单位第二次参加了在墨西哥举行的第三届航空展？",
+  "gold": "中航技代表中国航空工业集团有限公司",
+  "pos_doc": "cmnee_valid_1782",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0010",
+  "orig_qid": "q13091",
+  "question": "哪家企业将与巴西海军共同开展首艘鲉鱼级潜艇的海上试验？",
+  "gold": "巴西伊塔圭造船厂",
+  "pos_doc": "cmnee_test_2393",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0011",
+  "orig_qid": "q1049",
+  "question": "潘哈德公司生产的PVP装甲车目前已交付给哪支武装力量？",
+  "gold": "法国军队",
+  "pos_doc": "cmnee_valid_287",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0012",
+  "orig_qid": "q860",
+  "question": "美国计划在哪个国家部署反导雷达站以配合波兰的拦截导弹？",
+  "gold": "捷克",
+  "pos_doc": "cmnee_valid_227",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0013",
+  "orig_qid": "q11324",
+  "question": "北风之神级首艇尤里·多尔戈鲁基号目前正在试射哪种导弹？",
+  "gold": "布拉瓦新型潜射弹道导弹",
+  "pos_doc": "cmnee_test_1892",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0014",
+  "orig_qid": "q1260",
+  "question": "美国海军远程多任务潜航器搭载的是雷声公司的哪种水雷战传感器？",
+  "gold": "AN/AQS-20A猎雷声呐",
+  "pos_doc": "cmnee_valid_321",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0015",
+  "orig_qid": "q3482",
+  "question": "马美卡拉演习中被称作高潮节目的是什么内容？",
+  "gold": "海上编队操演及联合登陆",
+  "pos_doc": "cmnee_valid_1238",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0016",
+  "orig_qid": "q11800",
+  "question": "哪个国家成功试射了国产K-15潜射导弹？",
+  "gold": "印度",
+  "pos_doc": "cmnee_test_2036",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0017",
+  "orig_qid": "q10792",
+  "question": "谁负责为SSST超音速掠海目标导弹研制推进系统？",
+  "gold": "ARC公司",
+  "pos_doc": "cmnee_test_1756",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0018",
+  "orig_qid": "q12650",
+  "question": "罗罗公司计划明年用哪种客机平台对遄达XWB发动机进行飞行试验？",
+  "gold": "A380",
+  "pos_doc": "cmnee_test_2274",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0019",
+  "orig_qid": "q13315",
+  "question": "沙波什尼科夫元帅号驱逐舰即将赴日本海试验的消息由哪国国防部发布？",
+  "gold": "俄罗斯",
+  "pos_doc": "cmnee_test_2453",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0020",
+  "orig_qid": "q9169",
+  "question": "印度空军第二支阵风战斗机中队未来将部署到哪座基地？",
+  "gold": "西孟加拉邦的哈西马拉空军基地",
+  "pos_doc": "cmnee_test_1164",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0021",
+  "orig_qid": "q12445",
+  "question": "俄罗斯首艘北风-A级核潜艇弗拉基米尔大公号正式加入了哪个军种？",
+  "gold": "海军",
+  "pos_doc": "cmnee_test_2218",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0022",
+  "orig_qid": "q6516",
+  "question": "土耳其航宇工业公司已向哪支部队交付了首批9架T129直升机？",
+  "gold": "土耳其陆军",
+  "pos_doc": "cmnee_test_301",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0023",
+  "orig_qid": "q14976",
+  "question": "英国第二艘机敏级潜艇伏击号定于哪天举行下水仪式？",
+  "gold": "2010年12月16日",
+  "pos_doc": "cmnee_test_2897",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0024",
+  "orig_qid": "q12771",
+  "question": "一飞院哪型无人机在2018年实现了20米翼展验证机首飞？",
+  "gold": "启明星无人机",
+  "pos_doc": "cmnee_test_2304",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0025",
+  "orig_qid": "q4949",
+  "question": "哪家防务企业准备把赤背蜘蛛步兵战车运往澳大利亚测试评估？",
+  "gold": "韩国韩华防务公司",
+  "pos_doc": "cmnee_valid_1816",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0026",
+  "orig_qid": "q14583",
+  "question": "2009年10月在克莱德河下水的英国45型驱逐舰是哪一艘？",
+  "gold": "保卫者号",
+  "pos_doc": "cmnee_test_2785",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0027",
+  "orig_qid": "q14987",
+  "question": "法国旗鱼无人艇演示艇是在什么地方下水的？",
+  "gold": "莫尔比昂省恩尼朋",
+  "pos_doc": "cmnee_test_2902",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0028",
+  "orig_qid": "q13456",
+  "question": "朝鲜24日向日本海发射的是什么类型的武器？",
+  "gold": "导弹",
+  "pos_doc": "cmnee_test_2485",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0029",
+  "orig_qid": "q10972",
+  "question": "韩国海军选用洛马公司的宙斯盾系统装备哪级驱逐舰？",
+  "gold": "KDX-III级驱逐舰",
+  "pos_doc": "cmnee_test_1802",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0030",
+  "orig_qid": "q9022",
+  "question": "通用动力旗下船厂宣布交付最后一艘战略补给舰所罗门号是哪天？",
+  "gold": "9月25日",
+  "pos_doc": "cmnee_test_1076",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0031",
+  "orig_qid": "q11733",
+  "question": "芬坎蒂尼集团旗下哪家公司将测试新型黑色闪电轻型鱼雷？",
+  "gold": "阿莱尼亚水下系统公司",
+  "pos_doc": "cmnee_test_2009",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0032",
+  "orig_qid": "q1898",
+  "question": "哪家公司宣布新型苏-35歼击机已完成300多次试飞？",
+  "gold": "苏霍伊公司",
+  "pos_doc": "cmnee_valid_496",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0033",
+  "orig_qid": "q13758",
+  "question": "美国陆军选定哪家公司作为轻机枪及弹药项目的唯一承包商？",
+  "gold": "AAI公司",
+  "pos_doc": "cmnee_test_2569",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0034",
+  "orig_qid": "q5332",
+  "question": "雷神公司计划为神剑制导炮弹加装什么末制导部件？",
+  "gold": "激光半主动导引头",
+  "pos_doc": "cmnee_valid_1952",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0035",
+  "orig_qid": "q9736",
+  "question": "美国国防部里程碑C决策决定由哪个军种采购6250台步兵无线电台？",
+  "gold": "陆军",
+  "pos_doc": "cmnee_test_1469",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0036",
+  "orig_qid": "q1866",
+  "question": "俄罗斯今年7月将进行哪种导弹的本年度首次试射？",
+  "gold": "布拉瓦弹道导弹",
+  "pos_doc": "cmnee_valid_488",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0037",
+  "orig_qid": "q8199",
+  "question": "MC-130W龙矛飞机具备初始能力后首先部署到了哪里？",
+  "gold": "伊拉克战场",
+  "pos_doc": "cmnee_test_821",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0038",
+  "orig_qid": "q9491",
+  "question": "哪家公司建造的第四艘BOB HOPE级运输船提前交付美国海军？",
+  "gold": "利顿阿冯达尔工业公司",
+  "pos_doc": "cmnee_test_1335",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0039",
+  "orig_qid": "q12972",
+  "question": "哪支武装力量宣布完成了标准-6 BlockIA导弹测试？",
+  "gold": "美国海军",
+  "pos_doc": "cmnee_test_2344",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0040",
+  "orig_qid": "q5381",
+  "question": "网火公司的精确攻击导弹弹道试验弹是在哪里进行飞行试验的？",
+  "gold": "埃格林空军基地的试验靶场",
+  "pos_doc": "cmnee_valid_1971",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0041",
+  "orig_qid": "q7733",
+  "question": "美国空军派遣到阿拉斯加评估寒冷气候使用性能的是哪架飞机？",
+  "gold": "F-22猛禽试验飞机",
+  "pos_doc": "cmnee_test_677",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0042",
+  "orig_qid": "q1654",
+  "question": "哪家公司开始对微型监视攻击巡航导弹进行风洞试验？",
+  "gold": "洛克希德・马丁公司",
+  "pos_doc": "cmnee_valid_434",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0043",
+  "orig_qid": "q3920",
+  "question": "波音公司已经完成了美国空军哪种部件的飞行试验？",
+  "gold": "新武器数据链网络部件",
+  "pos_doc": "cmnee_valid_1470",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0044",
+  "orig_qid": "q9593",
+  "question": "与S-63一同在第二批交付的德国导弹快艇是哪艘？",
+  "gold": "S-68",
+  "pos_doc": "cmnee_test_1265",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0045",
+  "orig_qid": "q13123",
+  "question": "雷霆2019演习中梁赞号战略核潜艇试射故障属于哪支舰队？",
+  "gold": "太平洋舰队",
+  "pos_doc": "cmnee_test_2402",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0046",
+  "orig_qid": "q13826",
+  "question": "以色列计划何时对铁屋反导系统进行较大规模测试？",
+  "gold": "今年年底前",
+  "pos_doc": "cmnee_test_2592",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0047",
+  "orig_qid": "q1874",
+  "question": "巴基斯坦成功试射的哈塔夫-9属于什么类型的导弹？",
+  "gold": "新型先进短程弹道导弹",
+  "pos_doc": "cmnee_valid_490",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0048",
+  "orig_qid": "q4415",
+  "question": "波音公司获得合同将完成100千瓦什么装置的设计？",
+  "gold": "自由电子激光器实验室演示器",
+  "pos_doc": "cmnee_valid_1643",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0049",
+  "orig_qid": "q12980",
+  "question": "哪家公司从2004年开始研发铁幕主动防护系统？",
+  "gold": "阿迪斯公司",
+  "pos_doc": "cmnee_test_2360",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0050",
+  "orig_qid": "q9300",
+  "question": "美军生物探测系统除中东和欧洲外还部署在哪一大洲？",
+  "gold": "亚洲",
+  "pos_doc": "cmnee_test_1218",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0051",
+  "orig_qid": "q7138",
+  "question": "克林顿将在什么时候的第三次拦截测试后决定是否部署导弹防御系统？",
+  "gold": "今年6月",
+  "pos_doc": "cmnee_test_495",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0052",
+  "orig_qid": "q8823",
+  "question": "诺斯罗普·格鲁曼的先进反辐射导弹合同除美国海军外还面向哪方？",
+  "gold": "德国政府",
+  "pos_doc": "cmnee_test_1009",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0053",
+  "orig_qid": "q1725",
+  "question": "哪个国家再次成功试射了可带核弹头的地对空导弹？",
+  "gold": "印度",
+  "pos_doc": "cmnee_valid_449",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0054",
+  "orig_qid": "q4569",
+  "question": "普惠洛克达因完成了首台用于NASA载人任务的哪种发动机装配？",
+  "gold": "J-2X上面级发动机",
+  "pos_doc": "cmnee_valid_1695",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0055",
+  "orig_qid": "q1062",
+  "question": "以色列打算派遣哪级潜艇到伊朗沿岸执行巡逻任务？",
+  "gold": "海豚级潜艇",
+  "pos_doc": "cmnee_valid_290",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0056",
+  "orig_qid": "q5740",
+  "question": "哪家公司披露了索尔塔姆研制的SPEAR软后坐迫击炮系统？",
+  "gold": "以色列埃尔比特系统公司",
+  "pos_doc": "cmnee_test_73",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0057",
+  "orig_qid": "q12054",
+  "question": "俄罗斯空军2014年计划试射的新型武器是什么类别？",
+  "gold": "巡航导弹",
+  "pos_doc": "cmnee_test_2100",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0058",
+  "orig_qid": "q14779",
+  "question": "意大利的Sky-Y无人机首次携飞行控制系统测试在哪处基地进行？",
+  "gold": "希波曼鲁基地",
+  "pos_doc": "cmnee_test_2847",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0059",
+  "orig_qid": "q14362",
+  "question": "响尾蛇Mk 3导弹成功拦截500米高度目标是在哪一天？",
+  "gold": "1月31日",
+  "pos_doc": "cmnee_test_2731",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0060",
+  "orig_qid": "q11379",
+  "question": "兹韦多奇卡维修中心完成的沃罗涅什号属于什么舰艇类型？",
+  "gold": "潜艇",
+  "pos_doc": "cmnee_test_1910",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0061",
+  "orig_qid": "q5064",
+  "question": "哪国海军首次实现舰艇网络化导弹发射？",
+  "gold": "法国海军",
+  "pos_doc": "cmnee_valid_1849",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0062",
+  "orig_qid": "q2435",
+  "question": "完成伊尔-76MD-90A大部分试飞的机组成员来自哪个国家？",
+  "gold": "俄罗斯",
+  "pos_doc": "cmnee_valid_637",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0063",
+  "orig_qid": "q5297",
+  "question": "1989年哪艘核潜艇的失事推动了潜艇救生服的设计？",
+  "gold": "前苏联共青团员号攻击型核潜艇",
+  "pos_doc": "cmnee_valid_1936",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0064",
+  "orig_qid": "q688",
+  "question": "KVH公司为哪个军种的通用遥控武器站提供光纤陀螺系统？",
+  "gold": "美国陆军",
+  "pos_doc": "cmnee_valid_179",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0065",
+  "orig_qid": "q9345",
+  "question": "哪家公司向美陆军情报部队交付了护栏地面基线2.0？",
+  "gold": "诺斯罗普・格鲁曼公司",
+  "pos_doc": "cmnee_test_1248",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0066",
+  "orig_qid": "q14270",
+  "question": "普惠公司完成了一系列侧风验证试验的是哪种发动机？",
+  "gold": "F135短距起飞垂直着陆型发动机",
+  "pos_doc": "cmnee_test_2699",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0067",
+  "orig_qid": "q13299",
+  "question": "印度9月23日夜间从移动发射装置试射的是哪种导弹？",
+  "gold": "大地-2地对地弹道导弹",
+  "pos_doc": "cmnee_test_2449",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0068",
+  "orig_qid": "q3164",
+  "question": "第三架预生产型AB139直升机在哪个国家的工厂完成首飞？",
+  "gold": "意大利",
+  "pos_doc": "cmnee_valid_824",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0069",
+  "orig_qid": "q4742",
+  "question": "泰国空军在今年的哪个航展上展示了升级后的F-5TH战斗机？",
+  "gold": "新加坡航展",
+  "pos_doc": "cmnee_valid_1754",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0070",
+  "orig_qid": "q5099",
+  "question": "哪家公司获得BAE合同为旋翼飞机着陆系统提供合成视觉显示器？",
+  "gold": "Mercury计算机公司",
+  "pos_doc": "cmnee_valid_1857",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0071",
+  "orig_qid": "q9299",
+  "question": "哪个国家为陆军订购了ITT公司的PVS-7夜视系统？",
+  "gold": "加拿大",
+  "pos_doc": "cmnee_test_1221",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0072",
+  "orig_qid": "q2179",
+  "question": "诺格公司将MFAS雷达集成到哪种飞机上进行飞行测试？",
+  "gold": "湾流II试验机",
+  "pos_doc": "cmnee_valid_570",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0073",
+  "orig_qid": "q8129",
+  "question": "租借给印度的攻击型核潜艇在日本海海试时发生事故是在什么时间？",
+  "gold": "2008年11月份",
+  "pos_doc": "cmnee_test_797",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0074",
+  "orig_qid": "q2834",
+  "question": "澳大利亚第四艘安扎克级护卫舰由哪家公司的船厂交付？",
+  "gold": "Tenix防务有限公司",
+  "pos_doc": "cmnee_valid_738",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0075",
+  "orig_qid": "q12698",
+  "question": "俄罗斯安加拉-5重型火箭是在哪一天进行首飞的？",
+  "gold": "2014年12月23日",
+  "pos_doc": "cmnee_test_2286",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0076",
+  "orig_qid": "q8864",
+  "question": "诺格公司赢得地基战略威慑合同将研发什么来替代民兵-3？",
+  "gold": "下一代洲际弹道导弹",
+  "pos_doc": "cmnee_test_1026",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0077",
+  "orig_qid": "q13194",
+  "question": "雷声公司与美海军测试海基版神剑N5是在什么时候？",
+  "gold": "去年5月",
+  "pos_doc": "cmnee_test_2416",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0078",
+  "orig_qid": "q8830",
+  "question": "日本目前部署了何种导弹防御系统？",
+  "gold": "多层弹道导弹防御系统",
+  "pos_doc": "cmnee_test_1010",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0079",
+  "orig_qid": "q7436",
+  "question": "哪个国家于2004年底开始部署有限的弹道导弹防御系统？",
+  "gold": "美国",
+  "pos_doc": "cmnee_test_577",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0080",
+  "orig_qid": "q6039",
+  "question": "英国哪艘护卫舰完成2500万英镑升级后前往海试？",
+  "gold": "圣奥尔本斯号护卫舰",
+  "pos_doc": "cmnee_test_158",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0081",
+  "orig_qid": "q6247",
+  "question": "哪艘军舰发生火灾前刚完成升级并具备搭载F-35B的能力？",
+  "gold": "两栖攻击舰好人理查德号",
+  "pos_doc": "cmnee_test_215",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0082",
+  "orig_qid": "q12510",
+  "question": "韩国安昌浩级潜艇首艇是从哪一年开始海试的？",
+  "gold": "2019年",
+  "pos_doc": "cmnee_test_2236",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0083",
+  "orig_qid": "q5723",
+  "question": "对阿富汗开战以来哪支部队首次出动攻击机轰炸阿南部目标？",
+  "gold": "美国海军陆战队",
+  "pos_doc": "cmnee_test_69",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0084",
+  "orig_qid": "q4966",
+  "question": "军队-2021国际军事技术论坛是在什么时间举行的？",
+  "gold": "2021年8月22日至28日",
+  "pos_doc": "cmnee_valid_1822",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0085",
+  "orig_qid": "q2198",
+  "question": "沃思堡号近海战斗舰在哪天完成了第二阶段建造商海试？",
+  "gold": "2012年4月4日",
+  "pos_doc": "cmnee_valid_576",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0086",
+  "orig_qid": "q6014",
+  "question": "日本拟建立的隐身战斗机维修中心将为哪种战机服务？",
+  "gold": "F-35",
+  "pos_doc": "cmnee_test_151",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0087",
+  "orig_qid": "q7799",
+  "question": "美国正在研制用于探测静音潜艇的什么类型舰艇？",
+  "gold": "无人遥控艇",
+  "pos_doc": "cmnee_test_705",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0088",
+  "orig_qid": "q12461",
+  "question": "神经元无人机进行123次飞行测试是在哪个时间段？",
+  "gold": "2012年12月直2015年9月",
+  "pos_doc": "cmnee_test_2224",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0089",
+  "orig_qid": "q6749",
+  "question": "哪个国家向中东派遣航母打击群以制衡伊朗？",
+  "gold": "美国",
+  "pos_doc": "cmnee_test_378",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0090",
+  "orig_qid": "q13746",
+  "question": "哪个国家3月31日试射了可携带核弹头的短程导弹？",
+  "gold": "巴基斯坦",
+  "pos_doc": "cmnee_test_2570",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0091",
+  "orig_qid": "q6192",
+  "question": "双龙联合登陆演习中派出黄蜂号两栖舰的是哪个国家？",
+  "gold": "美国",
+  "pos_doc": "cmnee_test_202",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0092",
+  "orig_qid": "q5070",
+  "question": "哪家公司与美海军研究实验室完成了LLRAM项目关键测试？",
+  "gold": "诺斯罗普・格鲁曼公司",
+  "pos_doc": "cmnee_valid_1851",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0093",
+  "orig_qid": "q6040",
+  "question": "菲律宾野猫舰载机预计部署的汉密尔顿级护卫舰是哪艘？",
+  "gold": "Gregorio Del Pilar号",
+  "pos_doc": "cmnee_test_150",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0094",
+  "orig_qid": "q8092",
+  "question": "美国海军哪艘航母于7月2日顺利完成海试？",
+  "gold": "尼米兹号航母",
+  "pos_doc": "cmnee_test_788",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0095",
+  "orig_qid": "q7318",
+  "question": "哪种机型满足了2002财年国防授权法案的效能可持续性目标？",
+  "gold": "V-22鱼鹰倾转旋翼机",
+  "pos_doc": "cmnee_test_549",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0096",
+  "orig_qid": "q9430",
+  "question": "EOJT公司获准生产营销TES公司的哪种产品？",
+  "gold": "电子干扰设备",
+  "pos_doc": "cmnee_test_1282",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0097",
+  "orig_qid": "q9624",
+  "question": "派驻阿富汗的F-16和美洲狮机群达到飞行里程碑的是哪支部队？",
+  "gold": "荷兰航空任务部队",
+  "pos_doc": "cmnee_test_1395",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0098",
+  "orig_qid": "q7472",
+  "question": "哪支海军因核反应堆冷却系统疑漏让12艘核潜艇暂停服役？",
+  "gold": "英国皇家海军",
+  "pos_doc": "cmnee_test_593",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0099",
+  "orig_qid": "q3479",
+  "question": "ATK公司为哪国海军的三叉戟-2导弹生产固体火箭推进系统？",
+  "gold": "美国",
+  "pos_doc": "cmnee_valid_1320",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0100",
+  "orig_qid": "q15119",
+  "question": "印度计划何时首次试射射程5000千米的烈火-5导弹？",
+  "gold": "2011年年底前",
+  "pos_doc": "cmnee_test_2937",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0101",
+  "orig_qid": "q4861",
+  "question": "哪家集团将在军队-2016论坛封闭阶段展出新型无人机？",
+  "gold": "联合仪器制造集团",
+  "pos_doc": "cmnee_valid_1786",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0102",
+  "orig_qid": "q6893",
+  "question": "哪支部队在北约演习背景下进行了模拟导弹打击演习？",
+  "gold": "波罗的海舰队伊斯坎德尔战役战术导弹系统编队",
+  "pos_doc": "cmnee_test_417",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0103",
+  "orig_qid": "q11092",
+  "question": "委内瑞拉引进常规潜艇计划的资金主要由哪个国家援助？",
+  "gold": "俄罗斯",
+  "pos_doc": "cmnee_test_1833",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0104",
+  "orig_qid": "q2402",
+  "question": "俄罗斯今年1月正式服役的是哪型战略核潜艇？",
+  "gold": "955型北风级潜艇",
+  "pos_doc": "cmnee_valid_628",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0105",
+  "orig_qid": "q3756",
+  "question": "哪两方合作通过无人水面平台完成了AN/AQS-24探测演示试验？",
+  "gold": "诺・格公司海洋和海军系统商业分部和纽伯特的海军水下战中心",
+  "pos_doc": "cmnee_valid_1409",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0106",
+  "orig_qid": "q13884",
+  "question": "俄罗斯新型扫雷艇抵达黑海的哪座基地准备海试？",
+  "gold": "新罗西斯克海军基地",
+  "pos_doc": "cmnee_test_2607",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0107",
+  "orig_qid": "q825",
+  "question": "美空军授予化学探测设备合同的供应商是哪家公司？",
+  "gold": "史密斯探测公司",
+  "pos_doc": "cmnee_valid_223",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0108",
+  "orig_qid": "q15324",
+  "question": "俄罗斯正在研制首架试验样机的未来轰炸机是哪个型号？",
+  "gold": "新型轰炸机PAK DA",
+  "pos_doc": "cmnee_test_2994",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0109",
+  "orig_qid": "q12194",
+  "question": "印度GTRE正在试验的巡航导弹发动机将用于哪型导弹？",
+  "gold": "无畏-1",
+  "pos_doc": "cmnee_test_2149",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0110",
+  "orig_qid": "q8113",
+  "question": "俄罗斯独立太空系统服役后将增强哪类系统的能力？",
+  "gold": "导弹预警系统",
+  "pos_doc": "cmnee_test_686",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0111",
+  "orig_qid": "q10066",
+  "question": "美国哪个军种拥有包括九艘核动力航母在内的十三艘航母？",
+  "gold": "海军",
+  "pos_doc": "cmnee_test_1564",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0112",
+  "orig_qid": "q1199",
+  "question": "正在研制SM-3导弹以装备宙斯盾舰艇的是哪个国家？",
+  "gold": "美国",
+  "pos_doc": "cmnee_valid_329",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0113",
+  "orig_qid": "q8970",
+  "question": "诺格公司在穆古海角交付首架MQ-4C无人机是什么时候？",
+  "gold": "2017年11月份",
+  "pos_doc": "cmnee_test_1058",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0114",
+  "orig_qid": "q12683",
+  "question": "哪个机构宣布原型快中子增值反应堆无法按期临界实验？",
+  "gold": "印度原子能部",
+  "pos_doc": "cmnee_test_2282",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0115",
+  "orig_qid": "q6967",
+  "question": "美国海军计划在太平洋潜艇上部署哪款反舰导弹？",
+  "gold": "鱼叉反舰导弹",
+  "pos_doc": "cmnee_test_444",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0116",
+  "orig_qid": "q13871",
+  "question": "美国防部将于2006年对哪种碳纤维高速舰艇开展使用试验？",
+  "gold": "短剑号舰艇",
+  "pos_doc": "cmnee_test_2596",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0117",
+  "orig_qid": "q8604",
+  "question": "美国计划在西班牙罗塔基地部署四艘驱逐舰是在哪段时间？",
+  "gold": "2014-2015年",
+  "pos_doc": "cmnee_test_950",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0118",
+  "orig_qid": "q9267",
+  "question": "新削减战略武器条约规定2018年2月部署上限1550枚的是什么？",
+  "gold": "战略弹头",
+  "pos_doc": "cmnee_test_1056",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0119",
+  "orig_qid": "q12233",
+  "question": "HELLADS激光项目计划何时开展陆基外场试验？",
+  "gold": "今年夏天",
+  "pos_doc": "cmnee_test_2162",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0120",
+  "orig_qid": "q7122",
+  "question": "夏洛克号和莫比尔湾号巡洋舰隶属于哪支武装力量？",
+  "gold": "美国海军",
+  "pos_doc": "cmnee_test_491",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0121",
+  "orig_qid": "q9878",
+  "question": "海基铠甲防空系统即将在哪艘22800型舰上接受测试？",
+  "gold": "奥金佐沃号",
+  "pos_doc": "cmnee_test_1515",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0122",
+  "orig_qid": "q6268",
+  "question": "澳大利亚接收的最后一架什么机型将与MQ-4C一同取代AP-3C？",
+  "gold": "P-8A海上巡逻机",
+  "pos_doc": "cmnee_test_224",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0123",
+  "orig_qid": "q2539",
+  "question": "普罗米修斯号舰队供油船最终将交付给哪国海军？",
+  "gold": "希腊海军",
+  "pos_doc": "cmnee_valid_664",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0124",
+  "orig_qid": "q1256",
+  "question": "正被美军装甲车辆使用以对抗简易爆炸装置的是什么设备？",
+  "gold": "反IED设备",
+  "pos_doc": "cmnee_valid_300",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0125",
+  "orig_qid": "q5867",
+  "question": "俄亥俄号发射三叉戟I C4导弹是在哪里的试验场进行的？",
+  "gold": "美国佛罗里达州卡纳维拉尔角的试验场",
+  "pos_doc": "cmnee_test_110",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0126",
+  "orig_qid": "q6114",
+  "question": "导弹防御局除管理设计外还打算获得哪种武器组件的决策权？",
+  "gold": "拦截器",
+  "pos_doc": "cmnee_test_176",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0127",
+  "orig_qid": "q15110",
+  "question": "EHD冷却技术将在几月的火箭任务中开展试验？",
+  "gold": "6月",
+  "pos_doc": "cmnee_test_2936",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0128",
+  "orig_qid": "q15352",
+  "question": "2019年5月以来哪国试射了三种新型固体燃料短程弹道导弹？",
+  "gold": "朝鲜",
+  "pos_doc": "cmnee_test_3000",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0129",
+  "orig_qid": "q2073",
+  "question": "蒙特罗斯号护卫舰在联合战士演习中发射了什么武器？",
+  "gold": "一枚鱼叉反舰导弹",
+  "pos_doc": "cmnee_valid_540",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0130",
+  "orig_qid": "q14546",
+  "question": "尤里·多尔戈鲁基号战略核潜艇的海试被推迟到了什么时候？",
+  "gold": "2009年春季",
+  "pos_doc": "cmnee_test_2782",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0131",
+  "orig_qid": "q5082",
+  "question": "BAE公司在哪种战车上首次试射了长钉远程反坦克导弹？",
+  "gold": "CV90步兵战车",
+  "pos_doc": "cmnee_valid_1854",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0132",
+  "orig_qid": "q1033",
+  "question": "美国海军第一艘将提前参加作战部署的近海战斗舰是哪艘？",
+  "gold": "近海战斗舰自由号",
+  "pos_doc": "cmnee_valid_276",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0133",
+  "orig_qid": "q11170",
+  "question": "韩国第三艘宙斯盾驱逐舰由哪个造船厂交付海军？",
+  "gold": "韩国现代重工集团蔚山造船厂",
+  "pos_doc": "cmnee_test_1855",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0134",
+  "orig_qid": "q8782",
+  "question": "英国购买的P-8A反潜巡逻机将驻扎在苏格兰的什么设施？",
+  "gold": "英国皇家空军基地",
+  "pos_doc": "cmnee_test_996",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0135",
+  "orig_qid": "q9659",
+  "question": "德国ComsatBw-2军事通信卫星是哪天发射升空的？",
+  "gold": "5月22日",
+  "pos_doc": "cmnee_test_1421",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0136",
+  "orig_qid": "q8073",
+  "question": "哪艘扫雷舰被部署至巴林接替阿瑟斯顿号执行反水雷任务？",
+  "gold": "米德尔顿号扫雷舰",
+  "pos_doc": "cmnee_test_780",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0137",
+  "orig_qid": "q7547",
+  "question": "12架F-22战斗机今年二月将被派驻到日本的哪个基地？",
+  "gold": "日本冲绳岛的Kadena空军基地",
+  "pos_doc": "cmnee_test_618",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0138",
+  "orig_qid": "q990",
+  "question": "哪家公司签约为北约海麻雀项目办公室生产改进型海麻雀导弹？",
+  "gold": "雷声公司",
+  "pos_doc": "cmnee_valid_271",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0139",
+  "orig_qid": "q1153",
+  "question": "通用动力将生产的AN/PRC-155属于哪类通信装备？",
+  "gold": "背负式无线电",
+  "pos_doc": "cmnee_valid_315",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0140",
+  "orig_qid": "q6752",
+  "question": "哪家公司在白沙导弹靶场测试了新型低空导弹防御雷达？",
+  "gold": "美国诺斯罗普・格鲁曼公司",
+  "pos_doc": "cmnee_test_379",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0141",
+  "orig_qid": "q13853",
+  "question": "与法国联合为智利海军建造鲉鱼级潜艇的还有哪个国家？",
+  "gold": "西班牙",
+  "pos_doc": "cmnee_test_2595",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0142",
+  "orig_qid": "q8754",
+  "question": "美国海军陆战队的F-35B已部署在日本的哪个基地？",
+  "gold": "日本岩国基地",
+  "pos_doc": "cmnee_test_989",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0143",
+  "orig_qid": "q7982",
+  "question": "日本哪个机构计划未来五年在三个以上基地部署PAC-3？",
+  "gold": "日本防务省",
+  "pos_doc": "cmnee_test_751",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0144",
+  "orig_qid": "q15036",
+  "question": "2010年12月22日哪方从东部靶场试射了两枚大地-2导弹？",
+  "gold": "印度军方",
+  "pos_doc": "cmnee_test_2911",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0145",
+  "orig_qid": "q11103",
+  "question": "委内瑞拉海军现役的两艘德制潜艇是哪一级？",
+  "gold": "U-209潜艇",
+  "pos_doc": "cmnee_test_1833",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0146",
+  "orig_qid": "q9583",
+  "question": "哪家公司签约为汉斯科姆基地提供战场机载通信节点支持？",
+  "gold": "诺•格公司",
+  "pos_doc": "cmnee_test_1381",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0147",
+  "orig_qid": "q11567",
+  "question": "F-35A完成外挂武器布局首次空中加油是在哪个基地？",
+  "gold": "加利福尼亚州爱德华兹空军基地",
+  "pos_doc": "cmnee_test_1965",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0148",
+  "orig_qid": "q15170",
+  "question": "哪个机构正在测试可增强弹头威力的高密度反应材料？",
+  "gold": "美国海军研究局",
+  "pos_doc": "cmnee_test_2951",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0149",
+  "orig_qid": "q14196",
+  "question": "哪家公司在旋涡V预警平台上测试了首个空中预警控制系统？",
+  "gold": "Elta系统公司",
+  "pos_doc": "cmnee_test_2691",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0150",
+  "orig_qid": "q14964",
+  "question": "紫苑导弹从法国试验船上进行发射试验是在什么时候？",
+  "gold": "2001年6月底",
+  "pos_doc": "cmnee_test_2889",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0151",
+  "orig_qid": "q14972",
+  "question": "洛马公司的JASSM-ER导弹近期在哪处靶场成功试飞？",
+  "gold": "白沙导弹靶场",
+  "pos_doc": "cmnee_test_2899",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0152",
+  "orig_qid": "q6425",
+  "question": "四艘SHARC无人艇开展水下目标监视演习是在什么水域？",
+  "gold": "苏格兰东部海峡",
+  "pos_doc": "cmnee_test_268",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0153",
+  "orig_qid": "q2094",
+  "question": "2008年发生坠机事故致6人遇难的美军B-52坠毁在哪里？",
+  "gold": "关岛30英里外",
+  "pos_doc": "cmnee_valid_547",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0154",
+  "orig_qid": "q5642",
+  "question": "戈尔什科夫海军上将号航母应于何时转交给印度海军？",
+  "gold": "2012年底",
+  "pos_doc": "cmnee_test_47",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0155",
+  "orig_qid": "q5718",
+  "question": "下周从范登堡基地发射NROL-25秘密卫星的将是哪种火箭？",
+  "gold": "德尔它-4火箭",
+  "pos_doc": "cmnee_test_66",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0156",
+  "orig_qid": "q5165",
+  "question": "俄海军在守护级护卫舰上测试了哪种直升机的着舰性能？",
+  "gold": "卡-27直升机",
+  "pos_doc": "cmnee_valid_1882",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0157",
+  "orig_qid": "q13702",
+  "question": "机载激光器项目中诺格公司研制的是什么类型的激光器？",
+  "gold": "高能氧碘化学激光器",
+  "pos_doc": "cmnee_test_2558",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0158",
+  "orig_qid": "q9902",
+  "question": "哪个国家的政府宣布增加预算开发国产导弹防御体系？",
+  "gold": "韩国",
+  "pos_doc": "cmnee_test_1524",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0159",
+  "orig_qid": "q2182",
+  "question": "警惕号新堆芯产生的核蒸汽检验了推进装置和什么？",
+  "gold": "配套子系统",
+  "pos_doc": "cmnee_valid_569",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0160",
+  "orig_qid": "q13877",
+  "question": "哪个机构开始了便携式辐射源探测装置的第二轮测试？",
+  "gold": "美国国内核检测办公室",
+  "pos_doc": "cmnee_test_2606",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0161",
+  "orig_qid": "q9686",
+  "question": "Comtech EF数据公司获得320万美元订单将提供什么设备？",
+  "gold": "卫星通信设备",
+  "pos_doc": "cmnee_test_1429",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0162",
+  "orig_qid": "q11091",
+  "question": "哪国海军为海象级潜艇订购了9套Sub Aspida设备？",
+  "gold": "荷兰皇家海军",
+  "pos_doc": "cmnee_test_1831",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0163",
+  "orig_qid": "q2330",
+  "question": "哪家公司完成了精确联合直接攻击弹药的概念研究？",
+  "gold": "波音公司",
+  "pos_doc": "cmnee_valid_609",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0164",
+  "orig_qid": "q14760",
+  "question": "具备复杂动力学的E-3预警机是在哪个月完成测试的？",
+  "gold": "二月份",
+  "pos_doc": "cmnee_test_2842",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0165",
+  "orig_qid": "q13584",
+  "question": "爱德华兹基地哪支团队在测试C-130J的综合防御系统？",
+  "gold": "电子战试验小组",
+  "pos_doc": "cmnee_test_2521",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0166",
+  "orig_qid": "q11622",
+  "question": "首枚联合空对地导弹试射时是从什么装置发射的？",
+  "gold": "旋翼发射器",
+  "pos_doc": "cmnee_test_1816",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0167",
+  "orig_qid": "q694",
+  "question": "爱尔兰的CN-235海上巡逻机负责对什么区域实施监视？",
+  "gold": "爱尔兰专属经济区",
+  "pos_doc": "cmnee_valid_189",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0168",
+  "orig_qid": "q2632",
+  "question": "符拉迪沃斯托克号搭载首批俄水兵完成系列测试是什么时候？",
+  "gold": "9月22日上午",
+  "pos_doc": "cmnee_valid_687",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0169",
+  "orig_qid": "q2559",
+  "question": "洛马公司的拓展技术研究项目涵盖哪种系统的设计测试演示？",
+  "gold": "JAGM制导系统",
+  "pos_doc": "cmnee_valid_598",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0170",
+  "orig_qid": "q8557",
+  "question": "哪艘佩里级护卫舰在服役27年后于3月13日退役？",
+  "gold": "卡尔号",
+  "pos_doc": "cmnee_test_935",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0171",
+  "orig_qid": "q12681",
+  "question": "朝鲜再次发射两枚射程可达日本的中程导弹是在几号？",
+  "gold": "26日",
+  "pos_doc": "cmnee_test_2281",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0172",
+  "orig_qid": "q8902",
+  "question": "印度核指挥管理局控制着全国90至110枚什么武器？",
+  "gold": "核弹头",
+  "pos_doc": "cmnee_test_963",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0173",
+  "orig_qid": "q6297",
+  "question": "日本防卫大臣河野太郎12日晚启程前往哪个国家会谈？",
+  "gold": "美国",
+  "pos_doc": "cmnee_test_233",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0174",
+  "orig_qid": "q971",
+  "question": "印度与以色列十亿美元交易中5月25日接收的首架是什么飞机？",
+  "gold": "机载预警和控制系统飞机",
+  "pos_doc": "cmnee_valid_258",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0175",
+  "orig_qid": "q5999",
+  "question": "美海军计划将绿湾号运输舰和两艘扫雷艇部署到哪个基地？",
+  "gold": "日本佐世保海军基地",
+  "pos_doc": "cmnee_test_146",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0176",
+  "orig_qid": "q4024",
+  "question": "印度陆军2月19日在哪处试验场试射了大地II导弹？",
+  "gold": "昌迪普尔试验场",
+  "pos_doc": "cmnee_valid_1503",
+  "rater": "A"
+ },
+ {
+  "hqid": "hA0177",
+  "orig_qid": "q2568",
+  "question": "谁将于2014年11月接收首艘西北风级两栖攻击舰？",
+  "gold": "俄海军",
+  "pos_doc": "cmnee_valid_668",
+  "rater": "A"
+ },
+ {
+  "hqid": "hB0001",
+  "orig_qid": "q11894",
+  "question": "BAE公司和联合技术公司在哪儿完成了通用制导炮弹的飞行试验？",
+  "gold": "白沙导弹靶场",
+  "pos_doc": "cmnee_test_2063",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0002",
+  "orig_qid": "q6917",
+  "question": "哪国的海军将添马级军舰作为前沿存在计划的先锋？",
+  "gold": "英国海军",
+  "pos_doc": "cmnee_test_430",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0003",
+  "orig_qid": "q9444",
+  "question": "除空战司令部和战略司令部外还有哪支航空部队部署了C2Core Air？",
+  "gold": "第16航空队",
+  "pos_doc": "cmnee_test_1161",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0004",
+  "orig_qid": "q13578",
+  "question": "哪家公司正在研制侵彻能力翻倍的重金属穿甲战斗部？",
+  "gold": "英国QinetiQ公司",
+  "pos_doc": "cmnee_test_2523",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0005",
+  "orig_qid": "q8912",
+  "question": "芬兰波詹马级轻护舰将配备哪型主动舰壳声纳？",
+  "gold": "SS2030",
+  "pos_doc": "cmnee_test_1022",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0006",
+  "orig_qid": "q3409",
+  "question": "哪个国家的海军要花1960万美元买新型微型潜艇？",
+  "gold": "韩国",
+  "pos_doc": "cmnee_valid_1293",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0007",
+  "orig_qid": "q8154",
+  "question": "哪家公司的A400M运输机即将进行首次空投试验？",
+  "gold": "欧洲空客军机公司",
+  "pos_doc": "cmnee_test_807",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0008",
+  "orig_qid": "q9129",
+  "question": "北约保障与采购局除了渡鸦还采购了哪款战术无人机？",
+  "gold": "美洲狮3全环境战术无人机",
+  "pos_doc": "cmnee_test_1120",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0009",
+  "orig_qid": "q7685",
+  "question": "俄罗斯第二个白杨-M导弹团部署在莫斯科以南的哪个州？",
+  "gold": "萨拉托夫州",
+  "pos_doc": "cmnee_test_668",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0010",
+  "orig_qid": "q13436",
+  "question": "韩国数据显示朝鲜正在试验的射程2500千米导弹是什么型号？",
+  "gold": "大浦洞-1型导弹",
+  "pos_doc": "cmnee_test_2485",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0011",
+  "orig_qid": "q1032",
+  "question": "卡塔尔空军九月份接收的第二架波音运输机是哪种机型？",
+  "gold": "C-17环球霸王III运输机",
+  "pos_doc": "cmnee_valid_275",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0012",
+  "orig_qid": "q4890",
+  "question": "东京国际防务展上主要展示了哪些类型的装备和技术？",
+  "gold": "激光雷达监视系统；猎雷技术；导弹驱逐舰和水陆两栖车模型等",
+  "pos_doc": "cmnee_valid_1794",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0013",
+  "orig_qid": "q10268",
+  "question": "第二部岸基宙斯盾系统是在什么阶段安装到新泽西州穆尔斯顿的？",
+  "gold": "初期",
+  "pos_doc": "cmnee_test_1613",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0014",
+  "orig_qid": "q14769",
+  "question": "哪个部门被认为需对在轨卫星进行更多激光武器试射？",
+  "gold": "美国国防部",
+  "pos_doc": "cmnee_test_2840",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0015",
+  "orig_qid": "q5909",
+  "question": "6月22日哪个军种接收了首架F-35C舰载战斗机？",
+  "gold": "美国海军",
+  "pos_doc": "cmnee_test_119",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0016",
+  "orig_qid": "q7061",
+  "question": "美海军哪种改进型战斗机近期通过了严格试飞？",
+  "gold": "下一代战斗机F/A-18E/F超级大黄蜂",
+  "pos_doc": "cmnee_test_473",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0017",
+  "orig_qid": "q15205",
+  "question": "布拉瓦导弹的15次试射是从什么时候开始统计的？",
+  "gold": "2005年以来",
+  "pos_doc": "cmnee_test_2952",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0018",
+  "orig_qid": "q10120",
+  "question": "CHIRP红外有效载荷属于哪个军种的导弹预警传感器？",
+  "gold": "美国空军",
+  "pos_doc": "cmnee_test_1581",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0019",
+  "orig_qid": "q10036",
+  "question": "14日从范登堡基地试射民兵-3导弹的是哪支力量？",
+  "gold": "美国空军",
+  "pos_doc": "cmnee_test_1558",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0020",
+  "orig_qid": "q13872",
+  "question": "俄罗斯955工程首艇计划什么时候下水？",
+  "gold": "2006年年末",
+  "pos_doc": "cmnee_test_2604",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0021",
+  "orig_qid": "q6262",
+  "question": "美国号两栖攻击舰和罗斯福号航母在西太编队演练是哪天？",
+  "gold": "当地时间2月15日",
+  "pos_doc": "cmnee_test_217",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0022",
+  "orig_qid": "q14291",
+  "question": "俄罗斯从德尔塔IV核潜艇发射轻舟导弹是在星期几？",
+  "gold": "上周四",
+  "pos_doc": "cmnee_test_2716",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0023",
+  "orig_qid": "q1493",
+  "question": "哪家企业的耐事故燃料正在爱达荷国家实验室测试？",
+  "gold": "法国法马通公司",
+  "pos_doc": "cmnee_valid_393",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0024",
+  "orig_qid": "q8841",
+  "question": "美空军监测朝鲜核活动主要依靠哪种特种飞机？",
+  "gold": "WC-135不死凤凰核侦察飞机",
+  "pos_doc": "cmnee_test_1013",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0025",
+  "orig_qid": "q3646",
+  "question": "众议员认为削减C-5改进经费会影响其在什么范围的部署支援？",
+  "gold": "全球",
+  "pos_doc": "cmnee_valid_1374",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0026",
+  "orig_qid": "q7739",
+  "question": "美导弹防御局长声称什么系统正日趋成熟？",
+  "gold": "对抗弹道导弹的分层防御系统",
+  "pos_doc": "cmnee_test_678",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0027",
+  "orig_qid": "q15247",
+  "question": "印度这次试射Prithvi短程导弹是从哪个试验场发射的？",
+  "gold": "奥里萨邦的昌迪普尔试验场",
+  "pos_doc": "cmnee_test_2965",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0028",
+  "orig_qid": "q9750",
+  "question": "通用动力C4分公司9亿美元合同的客户是哪个办公室？",
+  "gold": "全球广播服务联合项目执行办公室",
+  "pos_doc": "cmnee_test_1476",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0029",
+  "orig_qid": "q11251",
+  "question": "墨西哥海军有史以来建造的最大军舰是哪一艘？",
+  "gold": "蒙特斯阿苏莱斯号后勤补给舰",
+  "pos_doc": "cmnee_test_1875",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0030",
+  "orig_qid": "q14377",
+  "question": "哪家公司的F-35试验机首次在弹舱内配载武器试飞？",
+  "gold": "洛・马公司",
+  "pos_doc": "cmnee_test_2739",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0031",
+  "orig_qid": "q2629",
+  "question": "纽波特纽斯船厂9月下水的是哪艘弗吉尼亚级潜艇？",
+  "gold": "约翰•华纳号核潜艇",
+  "pos_doc": "cmnee_valid_686",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0032",
+  "orig_qid": "q12780",
+  "question": "哪支部队在东海某海域展开了实战化攻防演练？",
+  "gold": "东部战区海军某驱逐舰支队舰艇编队",
+  "pos_doc": "cmnee_test_2307",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0033",
+  "orig_qid": "q4369",
+  "question": "与普惠合作演示发动机深度节流能力的还有哪个机构？",
+  "gold": "NASA",
+  "pos_doc": "cmnee_valid_1624",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0034",
+  "orig_qid": "q3982",
+  "question": "谁研发了用于打击海盗的先进电子预警系统？",
+  "gold": "BAE系统公司",
+  "pos_doc": "cmnee_valid_1488",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0035",
+  "orig_qid": "q12745",
+  "question": "增强型防区外对陆攻击导弹这次试射是由什么飞机发射的？",
+  "gold": "美国海军F/A-18B飞机",
+  "pos_doc": "cmnee_test_2289",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0036",
+  "orig_qid": "q4106",
+  "question": "哪个机构曾用激光向月球探测器发送蒙娜丽莎图像？",
+  "gold": "NASA",
+  "pos_doc": "cmnee_valid_1531",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0037",
+  "orig_qid": "q11950",
+  "question": "俄罗斯9月试射失败后还将继续试射哪种导弹？",
+  "gold": "布拉瓦导弹",
+  "pos_doc": "cmnee_test_2080",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0038",
+  "orig_qid": "q983",
+  "question": "哪个国家推出了三架新一代SDTI无人机采购计划？",
+  "gold": "法国",
+  "pos_doc": "cmnee_valid_269",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0039",
+  "orig_qid": "q8001",
+  "question": "舍瓦利亚·保罗号护卫舰正式移交法国海军是哪一天？",
+  "gold": "2009年12月21日",
+  "pos_doc": "cmnee_test_759",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0040",
+  "orig_qid": "q4795",
+  "question": "南非丹尼尔公司在AAD展上展出了什么新研组件？",
+  "gold": "Umbani精确制导炸弹组件",
+  "pos_doc": "cmnee_valid_1769",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0041",
+  "orig_qid": "q3782",
+  "question": "雷神公司在帝国挑战演习中展示系统，该演习是何时举行的？",
+  "gold": "今年5月23日至6月3日",
+  "pos_doc": "cmnee_valid_1419",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0042",
+  "orig_qid": "q594",
+  "question": "美国除了英国和匈牙利还可能在中东欧哪个国家部署拦截导弹？",
+  "gold": "波兰",
+  "pos_doc": "cmnee_valid_161",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0043",
+  "orig_qid": "q7091",
+  "question": "哪个国家计划夏季起部署27枚改进型爱国者导弹？",
+  "gold": "日本",
+  "pos_doc": "cmnee_test_485",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0044",
+  "orig_qid": "q14602",
+  "question": "哪家公司完成了A400M的首次低速滑行试验？",
+  "gold": "空客军机公司",
+  "pos_doc": "cmnee_test_2797",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0045",
+  "orig_qid": "q9483",
+  "question": "加空军首架C-17是在哪个公司的长滩工厂喷涂国旗的？",
+  "gold": "波音公司",
+  "pos_doc": "cmnee_test_1328",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0046",
+  "orig_qid": "q8097",
+  "question": "印度6月18日在昌迪普尔试验场试射的是什么导弹？",
+  "gold": "大地-2中程弹道导弹",
+  "pos_doc": "cmnee_test_786",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0047",
+  "orig_qid": "q13741",
+  "question": "轻机枪及弹药项目的集成演示验证试验何时结束？",
+  "gold": "2007年年底",
+  "pos_doc": "cmnee_test_2569",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0048",
+  "orig_qid": "q13653",
+  "question": "哪个地区有望获批在本地试射美制爱国者导弹？",
+  "gold": "台湾",
+  "pos_doc": "cmnee_test_2544",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0049",
+  "orig_qid": "q10155",
+  "question": "哪家公司时隔20多年重新生产激光制导Maverick导弹？",
+  "gold": "雷神公司",
+  "pos_doc": "cmnee_test_1586",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0050",
+  "orig_qid": "q10501",
+  "question": "波音公司把先进卫星通信系统交付给了哪个国家？",
+  "gold": "墨西哥",
+  "pos_doc": "cmnee_test_1679",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0051",
+  "orig_qid": "q7281",
+  "question": "哪个导弹防御系统的多次测试失败引发替代方案讨论？",
+  "gold": "NMD",
+  "pos_doc": "cmnee_test_539",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0052",
+  "orig_qid": "q7838",
+  "question": "俄北方舰队改革中哪级核潜艇的军官面临缩编？",
+  "gold": "阿库拉级潜艇",
+  "pos_doc": "cmnee_test_716",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0053",
+  "orig_qid": "q14092",
+  "question": "波音X-32A验证机11月15日的试飞在哪里进行？",
+  "gold": "加州爱德华兹空军基地",
+  "pos_doc": "cmnee_test_2655",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0054",
+  "orig_qid": "q13324",
+  "question": "NXTCOMM计划何时开展完整原型的制作和空中测试？",
+  "gold": "2021年初",
+  "pos_doc": "cmnee_test_2455",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0055",
+  "orig_qid": "q6902",
+  "question": "美海军无人综合战略计划在空水面和海底部署什么？",
+  "gold": "无人系统",
+  "pos_doc": "cmnee_test_425",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0056",
+  "orig_qid": "q14253",
+  "question": "俄罗斯安排布拉瓦导弹最后一次潜射试验是哪天？",
+  "gold": "12月21日",
+  "pos_doc": "cmnee_test_2707",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0057",
+  "orig_qid": "q1889",
+  "question": "新型反舰导弹防御雷达已可供哪个军种初始作战使用？",
+  "gold": "海军",
+  "pos_doc": "cmnee_valid_495",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0058",
+  "orig_qid": "q4428",
+  "question": "马金岛号两栖攻击舰的海试安排是由谁披露的？",
+  "gold": "公共事务官劳伦•邓普斯",
+  "pos_doc": "cmnee_valid_1647",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0059",
+  "orig_qid": "q7174",
+  "question": "美国原计划何时部署国际空间站营救型轨道空天飞机？",
+  "gold": "2010年以前",
+  "pos_doc": "cmnee_test_503",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0060",
+  "orig_qid": "q11276",
+  "question": "哪个国家2010年9月与美国在黄海举行反潜演习？",
+  "gold": "韩国",
+  "pos_doc": "cmnee_test_1885",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0061",
+  "orig_qid": "q13034",
+  "question": "无畏导弹预定4月试射时将搭载什么新型动力装置？",
+  "gold": "马尼克涡扇发动机",
+  "pos_doc": "cmnee_test_2376",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0062",
+  "orig_qid": "q14085",
+  "question": "MBDA公司试射新型特塞奥反舰导弹是在哪天进行的？",
+  "gold": "10月31日",
+  "pos_doc": "cmnee_test_2661",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0063",
+  "orig_qid": "q11011",
+  "question": "哪家船厂5月4日将下水首艘阿基坦级护卫舰？",
+  "gold": "法国造船厂DCNS公司",
+  "pos_doc": "cmnee_test_1814",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0064",
+  "orig_qid": "q13745",
+  "question": "LMGA项目第II阶段将研发制造并试验哪种武器？",
+  "gold": "轻型机枪",
+  "pos_doc": "cmnee_test_2569",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0065",
+  "orig_qid": "q6236",
+  "question": "土耳其打算在阿纳多卢两栖攻击舰上部署什么来弥补缺F-35？",
+  "gold": "攻击无人机",
+  "pos_doc": "cmnee_test_213",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0066",
+  "orig_qid": "q5105",
+  "question": "迪尔防务公司在南非靶场演示发射的是什么防空系统？",
+  "gold": "新型IRIS-T SLS短程防空系统",
+  "pos_doc": "cmnee_valid_1858",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0067",
+  "orig_qid": "q5792",
+  "question": "阿玛塔坦克提前到哪一年启动样车试验计划？",
+  "gold": "2013年",
+  "pos_doc": "cmnee_test_88",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0068",
+  "orig_qid": "q14706",
+  "question": "第四架波音787试飞飞机ZA003是从哪个机场起飞的？",
+  "gold": "华盛顿埃弗雷特的佩恩机场",
+  "pos_doc": "cmnee_test_2828",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0069",
+  "orig_qid": "q10827",
+  "question": "谁在2006年向美国空军交付了首套小直径炸弹系统？",
+  "gold": "波音公司",
+  "pos_doc": "cmnee_test_1763",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0070",
+  "orig_qid": "q358",
+  "question": "尼米兹级航母新安装的战术输入系统由哪家公司提供？",
+  "gold": "洛・马公司",
+  "pos_doc": "cmnee_valid_96",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0071",
+  "orig_qid": "q5061",
+  "question": "导弹防御局飞行测试中探测跟踪拦截弹的是什么卫星？",
+  "gold": "空间跟踪监视系统示范卫星",
+  "pos_doc": "cmnee_valid_1842",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0072",
+  "orig_qid": "q13298",
+  "question": "2020年8月是谁试飞了贝尔V-280倾转旋翼机？",
+  "gold": "美国陆军红石试验中心的试飞员",
+  "pos_doc": "cmnee_test_2447",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0073",
+  "orig_qid": "q989",
+  "question": "加登里奇造船厂交付的两艘快速攻击艇给了谁？",
+  "gold": "印度海军",
+  "pos_doc": "cmnee_valid_272",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0074",
+  "orig_qid": "q3776",
+  "question": "雷声和美海军海上试验用什么激光器击落了四架无人机？",
+  "gold": "光束耦合光纤激光器",
+  "pos_doc": "cmnee_valid_1416",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0075",
+  "orig_qid": "q8654",
+  "question": "白宫通过向台湾泰国等移交8艘护卫舰涉及哪支力量的舰艇？",
+  "gold": "海军",
+  "pos_doc": "cmnee_test_962",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0076",
+  "orig_qid": "q6286",
+  "question": "哪些部队18日在独岛周边启动了例行守岛演习？",
+  "gold": "韩国海军和海军陆战队",
+  "pos_doc": "cmnee_test_228",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0077",
+  "orig_qid": "q4088",
+  "question": "先进两栖突击车的MTU发动机在哪个国家完成了耐久试验？",
+  "gold": "德国",
+  "pos_doc": "cmnee_valid_1526",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0078",
+  "orig_qid": "q11869",
+  "question": "弗拉基米尔·莫诺马赫号潜艇定于何时在白海开始海试？",
+  "gold": "今年6月",
+  "pos_doc": "cmnee_test_2055",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0079",
+  "orig_qid": "q10976",
+  "question": "AeroVironment交付爱德华兹基地地面测试的是什么无人机？",
+  "gold": "全球观测者氢动力长航时无人机",
+  "pos_doc": "cmnee_test_1803",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0080",
+  "orig_qid": "q3436",
+  "question": "哪个国家将开始生产S-400凯旋防空系统并计划出口？",
+  "gold": "俄罗斯",
+  "pos_doc": "cmnee_valid_1306",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0081",
+  "orig_qid": "q8305",
+  "question": "哪个国家将按北约导弹防御计划部署早期预警雷达？",
+  "gold": "土耳其",
+  "pos_doc": "cmnee_test_861",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0082",
+  "orig_qid": "q11053",
+  "question": "完成首次超音速飞行的F-35B战机是哪家公司的产品？",
+  "gold": "洛・马",
+  "pos_doc": "cmnee_test_1826",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0083",
+  "orig_qid": "q14301",
+  "question": "印度阿卡什导弹是哪一年首次发射的？",
+  "gold": "1983年",
+  "pos_doc": "cmnee_test_2718",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0084",
+  "orig_qid": "q4131",
+  "question": "第九届无人水面艇比赛是在什么时间举办的？",
+  "gold": "7月初",
+  "pos_doc": "cmnee_valid_1541",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0085",
+  "orig_qid": "q8207",
+  "question": "哪支海军把约克号驱逐舰部署到了南大西洋巡逻？",
+  "gold": "英国皇家海军",
+  "pos_doc": "cmnee_test_824",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0086",
+  "orig_qid": "q10423",
+  "question": "越南空间技术研究院几月在南中国海试飞了两型无人机？",
+  "gold": "5月",
+  "pos_doc": "cmnee_test_1657",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0087",
+  "orig_qid": "q1452",
+  "question": "芬兰意大利荷兰波兰罗马尼亚西班牙捷克之外还有哪个国家装备长钉导弹？",
+  "gold": "斯洛文尼亚",
+  "pos_doc": "cmnee_valid_242",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0088",
+  "orig_qid": "q11922",
+  "question": "哪家造船厂将继续建造福特级航母并与海军谈新合同？",
+  "gold": "亨廷顿英格尔斯工业纽波特纽斯造船厂",
+  "pos_doc": "cmnee_test_2073",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0089",
+  "orig_qid": "q6165",
+  "question": "哪个国家1月6日进行的核试验被认为未显著增强核能力？",
+  "gold": "朝鲜",
+  "pos_doc": "cmnee_test_194",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0090",
+  "orig_qid": "q2107",
+  "question": "哪艘驱逐舰首次部署后于4月2日返回圣地亚哥？",
+  "gold": "约翰・芬恩号",
+  "pos_doc": "cmnee_valid_550",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0091",
+  "orig_qid": "q6994",
+  "question": "日本被称为国产战斧的什么武器2018年开始研究？",
+  "gold": "新反舰导弹",
+  "pos_doc": "cmnee_test_454",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0092",
+  "orig_qid": "q9298",
+  "question": "美国陆军首支斯特赖克旅级战斗部队部署到了哪里？",
+  "gold": "伊拉克",
+  "pos_doc": "cmnee_test_1220",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0093",
+  "orig_qid": "q407",
+  "question": "4月6日收到首批标枪反坦克导弹的是哪个国家？",
+  "gold": "乌克兰",
+  "pos_doc": "cmnee_valid_118",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0094",
+  "orig_qid": "q13274",
+  "question": "拉达级哪艘潜艇即将开始系泊试验？",
+  "gold": "喀琅施塔得号",
+  "pos_doc": "cmnee_test_2390",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0095",
+  "orig_qid": "q11609",
+  "question": "伊朗革命卫队试射一系列弹道导弹是在哪一天？",
+  "gold": "7月3日",
+  "pos_doc": "cmnee_test_1979",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0096",
+  "orig_qid": "q1985",
+  "question": "哪艘潜艇将于11月6日举行命名仪式并计划秋季下水？",
+  "gold": "加利福尼亚号潜艇",
+  "pos_doc": "cmnee_valid_518",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0097",
+  "orig_qid": "q14365",
+  "question": "波音首次在地面发射高能化学激光器用的是哪种飞机？",
+  "gold": "C-130H飞机",
+  "pos_doc": "cmnee_test_2735",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0098",
+  "orig_qid": "q9904",
+  "question": "朝鲜周三从新浦近海发射的是什么类型的导弹？",
+  "gold": "潜射弹道导弹",
+  "pos_doc": "cmnee_test_1523",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0099",
+  "orig_qid": "q9067",
+  "question": "第500架F-35战斗机交付给了哪个国家的国民警卫队基地？",
+  "gold": "美国",
+  "pos_doc": "cmnee_test_1091",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0100",
+  "orig_qid": "q10408",
+  "question": "日本航空自卫队宣布正式服役的电子侦察机是哪款？",
+  "gold": "RC-2电子侦察机",
+  "pos_doc": "cmnee_test_1653",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0101",
+  "orig_qid": "q14694",
+  "question": "哪个国家自行研制的轻型战斗机完成了首次飞行试验计划？",
+  "gold": "印度",
+  "pos_doc": "cmnee_test_2825",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0102",
+  "orig_qid": "q2027",
+  "question": "新型反舰导弹防御雷达除了澳大利亚沿岸还在哪里测试过？",
+  "gold": "夏威夷",
+  "pos_doc": "cmnee_valid_495",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0103",
+  "orig_qid": "q10259",
+  "question": "庞巴迪415MP取得合格证后将和什么一同交付欧洲用户？",
+  "gold": "另一架飞机",
+  "pos_doc": "cmnee_test_1611",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0104",
+  "orig_qid": "q14774",
+  "question": "以色列飞机工业公司为测试无人机软件研制了什么？",
+  "gold": "先进工具",
+  "pos_doc": "cmnee_test_2846",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0105",
+  "orig_qid": "q10218",
+  "question": "俄罗斯为越南建造的第三艘什么型号潜艇本月末下水？",
+  "gold": "阿尔罗萨级636M型潜艇",
+  "pos_doc": "cmnee_test_1602",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0106",
+  "orig_qid": "q4378",
+  "question": "军事海运司令部把北极号新齿轮组合同授予了谁？",
+  "gold": "诺思罗普・格鲁曼公司",
+  "pos_doc": "cmnee_valid_1629",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0107",
+  "orig_qid": "q13700",
+  "question": "首架F-35战斗机计划在哪一年进行首飞？",
+  "gold": "2006年",
+  "pos_doc": "cmnee_test_2551",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0108",
+  "orig_qid": "q14393",
+  "question": "哪个军种的F-15C完成了响尾蛇Block II首次携载试验？",
+  "gold": "美国空军",
+  "pos_doc": "cmnee_test_2740",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0109",
+  "orig_qid": "q9952",
+  "question": "美空军可用高功率微波打击电子设备的是什么武器？",
+  "gold": "导弹",
+  "pos_doc": "cmnee_test_1537",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0110",
+  "orig_qid": "q12767",
+  "question": "航空工业哪个单位召开了无人机项目2019年动员会？",
+  "gold": "一飞院",
+  "pos_doc": "cmnee_test_2304",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0111",
+  "orig_qid": "q6354",
+  "question": "哪国政府下一财年将考虑引进两种新拦截导弹系统？",
+  "gold": "日本政府",
+  "pos_doc": "cmnee_test_138",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0112",
+  "orig_qid": "q14213",
+  "question": "印度1月17日试射的改良型导弹叫什么名字？",
+  "gold": "火焰长程导弹",
+  "pos_doc": "cmnee_test_2696",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0113",
+  "orig_qid": "q6792",
+  "question": "林肯号航母打击群11月19日进入霍尔木兹海峡后到了哪里？",
+  "gold": "波斯湾",
+  "pos_doc": "cmnee_test_393",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0114",
+  "orig_qid": "q4238",
+  "question": "美海军9月初成功试射的两枚是什么导弹？",
+  "gold": "三叉戟IID5潜射战略导弹",
+  "pos_doc": "cmnee_valid_1571",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0115",
+  "orig_qid": "q9017",
+  "question": "日本首支具备初始作战能力的F-35A中队驻扎在哪里？",
+  "gold": "三泽空军基地",
+  "pos_doc": "cmnee_test_1073",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0116",
+  "orig_qid": "q3120",
+  "question": "光辉战斗机LSP-3号机的首飞是在哪家公司机场进行的？",
+  "gold": "印度斯坦航空有限公司",
+  "pos_doc": "cmnee_valid_812",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0117",
+  "orig_qid": "q1487",
+  "question": "美澳高超声速导弹最新试飞是在哪个试验场进行的？",
+  "gold": "澳大利亚南部的武麦拉试验场",
+  "pos_doc": "cmnee_valid_390",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0118",
+  "orig_qid": "q2694",
+  "question": "印度自建的哪艘弹道导弹核潜艇本月将装载核导弹海试？",
+  "gold": "歼敌者号",
+  "pos_doc": "cmnee_valid_703",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0119",
+  "orig_qid": "q858",
+  "question": "哪家公司拿到1750万美元生产500多部激光目标定位器？",
+  "gold": "诺斯罗普・格鲁曼公司",
+  "pos_doc": "cmnee_valid_234",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0120",
+  "orig_qid": "q795",
+  "question": "雷声公司为哪国的陆军开发JLENS超视距监视系统？",
+  "gold": "美国",
+  "pos_doc": "cmnee_valid_215",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0121",
+  "orig_qid": "q8166",
+  "question": "美军F-16和C-130将从哪一年起轮换部署至波兰？",
+  "gold": "2013年",
+  "pos_doc": "cmnee_test_810",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0122",
+  "orig_qid": "q11271",
+  "question": "美海军训练相撞事故中哪架飞机的飞行员安全获救？",
+  "gold": "F-5战斗机",
+  "pos_doc": "cmnee_test_1884",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0123",
+  "orig_qid": "q769",
+  "question": "萨伯公司计划与伙伴合作开发什么无人机系统？",
+  "gold": "新一代战术无人机系统",
+  "pos_doc": "cmnee_valid_206",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0124",
+  "orig_qid": "q12470",
+  "question": "萨博环球眼预警机是在哪座城市完成首飞的？",
+  "gold": "瑞典林雪平",
+  "pos_doc": "cmnee_test_2225",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0125",
+  "orig_qid": "q5717",
+  "question": "哪个国家在7月之前不会部署潜射布拉瓦导弹？",
+  "gold": "俄罗斯",
+  "pos_doc": "cmnee_test_68",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0126",
+  "orig_qid": "q7665",
+  "question": "拉姆斯菲尔德表示在部署什么系统上不会独自行动？",
+  "gold": "国家导弹防御系统",
+  "pos_doc": "cmnee_test_660",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0127",
+  "orig_qid": "q6260",
+  "question": "哪支海上力量从圣迭戈出发前往中东防范伊朗？",
+  "gold": "埃塞克斯号两栖戒备大队",
+  "pos_doc": "cmnee_test_221",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0128",
+  "orig_qid": "q9391",
+  "question": "ESS公司获得的快速响应计划合同服务于哪个军种？",
+  "gold": "陆军",
+  "pos_doc": "cmnee_test_1276",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0129",
+  "orig_qid": "q5204",
+  "question": "人们担忧印第安角核电站会成为谁的袭击目标？",
+  "gold": "恐怖分子",
+  "pos_doc": "cmnee_valid_1900",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0130",
+  "orig_qid": "q5874",
+  "question": "美国明年1月为保持印度洋双航母群将部署哪艘航母？",
+  "gold": "肯尼迪号航母",
+  "pos_doc": "cmnee_test_113",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0131",
+  "orig_qid": "q6748",
+  "question": "诺格公司5月至6月在哪里测试了新型雷达系统？",
+  "gold": "新墨西哥州白沙导弹靶场",
+  "pos_doc": "cmnee_test_379",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0132",
+  "orig_qid": "q5018",
+  "question": "台湾经国号战机配挂测试的自研导弹是什么型号？",
+  "gold": "天剑-2A型反辐射导弹",
+  "pos_doc": "cmnee_valid_1833",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0133",
+  "orig_qid": "q12709",
+  "question": "印度试射烈火-3前几天哪个国家试射了中程核导弹？",
+  "gold": "巴基斯坦",
+  "pos_doc": "cmnee_test_2290",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0134",
+  "orig_qid": "q12020",
+  "question": "哪支武装力量将对布拉莫斯导弹进行首次测试？",
+  "gold": "印度海军",
+  "pos_doc": "cmnee_test_2095",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0135",
+  "orig_qid": "q13592",
+  "question": "德国BGT公司哪种导弹验证试验打出了七发七中？",
+  "gold": "IRIS-T近距红外空空导弹",
+  "pos_doc": "cmnee_test_2528",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0136",
+  "orig_qid": "q15199",
+  "question": "尤里·多尔戈鲁基号将连发两枚什么导弹进行试射？",
+  "gold": "布拉瓦导弹",
+  "pos_doc": "cmnee_test_2961",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0137",
+  "orig_qid": "q12674",
+  "question": "印度GSLV-D5火箭因故障推迟发射是在哪一天？",
+  "gold": "8月19日",
+  "pos_doc": "cmnee_test_2280",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0138",
+  "orig_qid": "q14923",
+  "question": "北风级首艇目前在什么海域接受最终试航？",
+  "gold": "北极海域",
+  "pos_doc": "cmnee_test_2881",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0139",
+  "orig_qid": "q10797",
+  "question": "荷兰Pelikaan号保障船2006年中将前往哪里的基地？",
+  "gold": "荷兰加勒比的安的列斯海军基地",
+  "pos_doc": "cmnee_test_1757",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0140",
+  "orig_qid": "q3751",
+  "question": "哪两家机构将联合展示伽利略卫星导航系统？",
+  "gold": "欧空局和欧委会",
+  "pos_doc": "cmnee_valid_1407",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0141",
+  "orig_qid": "q130",
+  "question": "美国20部反迫击炮雷达系统将在什么时间内交付？",
+  "gold": "接下来几周",
+  "pos_doc": "cmnee_valid_42",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0142",
+  "orig_qid": "q7667",
+  "question": "谁与美导弹防御局完成了陆基中段防御拦截试验？",
+  "gold": "波音公司工业团队",
+  "pos_doc": "cmnee_test_662",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0143",
+  "orig_qid": "q10691",
+  "question": "亚森-M级喀山号在白海试射宝石导弹是哪国的潜艇？",
+  "gold": "俄罗斯",
+  "pos_doc": "cmnee_test_1729",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0144",
+  "orig_qid": "q3319",
+  "question": "雷声6.52亿美元的标准2导弹合同供给哪国海军和盟军？",
+  "gold": "美国海军",
+  "pos_doc": "cmnee_valid_1262",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0145",
+  "orig_qid": "q6777",
+  "question": "哪个军种正在制订应对国防部减购F-22的策略？",
+  "gold": "美空军",
+  "pos_doc": "cmnee_test_388",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0146",
+  "orig_qid": "q9316",
+  "question": "美空军打算什么时候部署升级后的通信对抗系统？",
+  "gold": "2010年末",
+  "pos_doc": "cmnee_test_1229",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0147",
+  "orig_qid": "q9140",
+  "question": "3D系统公司的新型增材制造设备是为陆军的什么部门研制的？",
+  "gold": "实验室",
+  "pos_doc": "cmnee_test_1138",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0148",
+  "orig_qid": "q12224",
+  "question": "西科斯基S-97劫掠者高速直升机是哪天首飞的？",
+  "gold": "5月22日",
+  "pos_doc": "cmnee_test_2161",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0149",
+  "orig_qid": "q9327",
+  "question": "洛马公司2.47亿美元合同为阿帕奇生产什么系统？",
+  "gold": "第2批箭头系统",
+  "pos_doc": "cmnee_test_1227",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0150",
+  "orig_qid": "q5634",
+  "question": "标准导弹-3 Block 1B首次试射失败是在哪一天？",
+  "gold": "9月1日",
+  "pos_doc": "cmnee_test_45",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0151",
+  "orig_qid": "q9892",
+  "question": "美海军哪艘航母2021年将搭载F-35C部署太平洋？",
+  "gold": "卡尔・文森号航母",
+  "pos_doc": "cmnee_test_1520",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0152",
+  "orig_qid": "q4236",
+  "question": "哪两家单位联合开发了成功演示的红外告警机？",
+  "gold": "泰利斯公司和澳大利亚科学与技术组织",
+  "pos_doc": "cmnee_valid_1573",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0153",
+  "orig_qid": "q598",
+  "question": "哪支空中力量向中东部署了带ASRAAM的狂风战机？",
+  "gold": "皇家空军",
+  "pos_doc": "cmnee_valid_162",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0154",
+  "orig_qid": "q3060",
+  "question": "通用电气改型F110发动机将装备阿联酋采购的什么战机？",
+  "gold": "F-16战斗机",
+  "pos_doc": "cmnee_valid_792",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0155",
+  "orig_qid": "q13556",
+  "question": "先进两栖突击车第三辆样车何时开始试验？",
+  "gold": "2000年夏末",
+  "pos_doc": "cmnee_test_2517",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0156",
+  "orig_qid": "q4711",
+  "question": "俄罗斯在2015年国际海事防务展展出了什么型号巡逻艇？",
+  "gold": "12150型导弹巡逻艇",
+  "pos_doc": "cmnee_valid_1742",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0157",
+  "orig_qid": "q14035",
+  "question": "第一架F-22工程制造发展型飞机的编号是什么？",
+  "gold": "猛禽4001",
+  "pos_doc": "cmnee_test_2650",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0158",
+  "orig_qid": "q3903",
+  "question": "波音微型巡航导弹验证弹计划何时进行首次飞行试验？",
+  "gold": "2005年底或2006年初",
+  "pos_doc": "cmnee_valid_1463",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0159",
+  "orig_qid": "q9798",
+  "question": "步兵无线电台可为前线的什么人员提供加密通信？",
+  "gold": "战术作战人员",
+  "pos_doc": "cmnee_test_1469",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0160",
+  "orig_qid": "q8450",
+  "question": "尤里·多尔戈鲁基号第一轮海试是哪天开始的？",
+  "gold": "6月24日",
+  "pos_doc": "cmnee_test_727",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0161",
+  "orig_qid": "q8161",
+  "question": "哪艘军舰离开BAE船坞开始为期一个月的海试？",
+  "gold": "45型驱逐舰飞龙号",
+  "pos_doc": "cmnee_test_809",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0162",
+  "orig_qid": "q15129",
+  "question": "美海军在超级大黄蜂上完成了什么武器的挂飞试验？",
+  "gold": "联合防区外武器C-1",
+  "pos_doc": "cmnee_test_2941",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0163",
+  "orig_qid": "q12873",
+  "question": "欧盟帮助哪个国家安装了核应急响应系统RODOS？",
+  "gold": "乌克兰",
+  "pos_doc": "cmnee_test_2334",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0164",
+  "orig_qid": "q2469",
+  "question": "以色列第五艘海豚级潜艇拉哈夫号是哪天下水的？",
+  "gold": "今年4月29日",
+  "pos_doc": "cmnee_valid_643",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0165",
+  "orig_qid": "q3551",
+  "question": "BAE系统公司六年保障合同保障的是哪艘巡逻舰？",
+  "gold": "克莱德号巡逻舰",
+  "pos_doc": "cmnee_valid_1341",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0166",
+  "orig_qid": "q12058",
+  "question": "俄罗斯新AIP系统将首先在哪艘潜艇上试验？",
+  "gold": "拉达级柴电潜艇圣彼得堡号",
+  "pos_doc": "cmnee_test_2108",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0167",
+  "orig_qid": "q8768",
+  "question": "21亿美元购买8架P-8巡逻机的客户是哪国海军？",
+  "gold": "印度海军",
+  "pos_doc": "cmnee_test_993",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0168",
+  "orig_qid": "q12304",
+  "question": "美海军陆战队哪型重型直升机的原型机当天成功首飞？",
+  "gold": "CH-53K 种马之王重型直升机原型机EDM-1",
+  "pos_doc": "cmnee_test_2179",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0169",
+  "orig_qid": "q5633",
+  "question": "雷神公司最近对什么武器开始了陆地点火试验？",
+  "gold": "标准导弹-3的新型号",
+  "pos_doc": "cmnee_test_45",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0170",
+  "orig_qid": "q3327",
+  "question": "美国将与巴新和哪个国家合作重建洛伦高海军基地？",
+  "gold": "澳大利亚",
+  "pos_doc": "cmnee_valid_1265",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0171",
+  "orig_qid": "q11875",
+  "question": "洛马公司爱国者3导弹2013年4月的测试在哪里进行？",
+  "gold": "白沙导弹靶场",
+  "pos_doc": "cmnee_test_2053",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0172",
+  "orig_qid": "q9653",
+  "question": "哪家公司正加快进度向印度空军交付C-130J运输机？",
+  "gold": "洛克希德・马丁公司",
+  "pos_doc": "cmnee_test_1415",
+  "rater": "B"
+ },
+ {
+  "hqid": "hB0173",
+  "orig_qid": "q11186",
+  "question": "首架MC-130J作战阴影II特种作战飞机哪天首飞？",
+  "gold": "四月二十二日",
+  "pos_doc": "cmnee_test_1860",
+  "rater": "B"
+ }
+]

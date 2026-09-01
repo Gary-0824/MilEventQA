@@ -1,0 +1,300 @@
+{"qid": "q1959", "human": {"correctness": "pass", "naturalness": "fail", "answerability": "pass", "ambiguity": "pass"}, "note": "“生产型苏-57”的表述不恰当，且预计2021年在表述也不恰当。"}
+{"qid": "q5250", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8262", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8409", "human": {"correctness": "pass", "naturalness": "fail", "answerability": "pass", "ambiguity": "fail"}, "note": "“NIE验证”和“MAINGATE非专有波形”在文档中并无体现，脱离上下文其含义不清晰。"}
+{"qid": "q10634", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这批舰艇\"无明确所指，脱离上下文无法确定问的是哪批舰艇。"}
+{"qid": "q14141", "human": {"correctness": "pass", "naturalness": "fail", "answerability": "pass", "ambiguity": "pass"}, "note": "应将“台湾”放在“在2000年”之前。"}
+{"qid": "q1687", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"该系统\"缺少先行对象，脱离材料无法判断问的是哪个系统。"}
+{"qid": "q14539", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q3673", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14709", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9882", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10208", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9146", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6913", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12873", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9408", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9006", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13847", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12004", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12763", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12623", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8066", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "fail"}, "note": "派往印尼的驱逐舰有拉那号和兰吉特号两艘，\"哪艘\"答案不唯一。"}
+{"qid": "q12342", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12707", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9635", "human": {"correctness": "pass", "naturalness": "fail", "answerability": "pass", "ambiguity": "pass"}, "note": "应该为“以色列即将在2012年接收的潜艇型号是什么？”更自然。"}
+{"qid": "q7248", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这种导弹\"无先行词，脱离上下文不知问的哪种导弹。"}
+{"qid": "q3947", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q41", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10098", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "事实句讲的是箭-2导弹试射，未提及\"箭-1导弹系统的首批部署\"。"}
+{"qid": "q1326", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1820", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4720", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13424", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1613", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7395", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "fail"}, "note": "美国空军有多架全球鹰无人机，该问题容易误解成美军所有的全球鹰无人机部署在哪里，问题本身存在歧义。"}
+{"qid": "q188", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料只讲LCS-25建造合同与自由级建造进度，未提及\"两次部署后航行超18万海里\"。"}
+{"qid": "q13394", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14648", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11263", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8058", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11164", "human": {"correctness": "pass", "naturalness": "fail", "answerability": "pass", "ambiguity": "pass"}, "note": "舰名与\"首舰\"关系不清，\"苏联海军戈尔什科夫将军号首舰\"表述混乱费解。"}
+{"qid": "q5164", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "事实句在\"国家试验\"处截断，未陈述\"步入收官阶段\"，答案依据不足。"}
+{"qid": "q3456", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6529", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4134", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"该项目\"无先行对象，脱离上下文无法确定问的是哪个项目。"}
+{"qid": "q5716", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15277", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "“去年”是指哪一年指代不清晰。"}
+{"qid": "q5862", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13232", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料仅提及22350型护卫舰将配备锆石导弹，未陈述\"首次试射锆石\"事件。"}
+{"qid": "q6186", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料讲的是考虑在马罗岛号上部署F-35B，未提及\"下水试验\"。"}
+{"qid": "q12259", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8440", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10471", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1253", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这批MR550遥控武器站\"无先行所指，问题无法独立成立。"}
+{"qid": "q11881", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5596", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1477", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"该舰\"指代悬空，脱离材料不知道问的是哪艘舰。"}
+{"qid": "q9162", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8840", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4799", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4728", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7519", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2315", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14410", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料仅讲阿莱尼亚宣布意空军接收第二批欧洲战斗机，无\"双座战机空中加油飞行测试\"内容。"}
+{"qid": "q10595", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11572", "human": {"correctness": "pass", "naturalness": "fail", "answerability": "pass", "ambiguity": "pass"}, "note": "查询几乎已经包含了答案，不具备价值。"}
+{"qid": "q11773", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9491", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5079", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q402", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"该备选合同\"无先行所指，脱离上下文无法确定问哪份合同。"}
+{"qid": "q13935", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11681", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6068", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5981", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这艘军舰\"指代悬空，问题无法独立成立。"}
+{"qid": "q7582", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6939", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1488", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6555", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9629", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "fail"}, "note": "材料同时提及伊拉克和阿富汗，服务覆盖两国，答案不唯一。"}
+{"qid": "q9115", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8194", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14259", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1913", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6992", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料只说新导弹2022年研制样机测试，未陈述日本陆上自卫队实施了该测试。"}
+{"qid": "q8321", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13191", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12324", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14252", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "fail"}, "note": "“另一台”指代不清，存在歧义。"}
+{"qid": "q9861", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "fail"}, "note": "材料中激光武器与电磁导轨炮均在试验规划之列，\"哪款武器\"答案不唯一。"}
+{"qid": "q14397", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8070", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6544", "human": {"correctness": "pass", "naturalness": "fail", "answerability": "pass", "ambiguity": "pass"}, "note": "应该为“哪种倾转旋翼机已经进驻伊拉克”更自然。"}
+{"qid": "q15071", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8621", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4251", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13878", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料讲的是布拉瓦导弹第二次发射试验，未提及2006-2007年新舰艇下水测试。"}
+{"qid": "q6904", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料称B-1B联合训练对象为日本F-2战斗机，问题中写成F-15J，与材料不符。"}
+{"qid": "q9268", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15228", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7877", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8429", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8514", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q415", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9460", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这艘舰船\"无先行所指，脱离上下文无法确定问哪艘船。"}
+{"qid": "q3692", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12583", "human": {"correctness": "fail", "naturalness": "fail", "answerability": "pass", "ambiguity": "pass"}, "note": "“试飞地点是哪家企业”问题本身的表达有误，地点和企业对不上。"}
+{"qid": "q2122", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13448", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料中美国海军只是消息报道方，未明确陈述海试由其执行，答案依据不足。"}
+{"qid": "q804", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这批即将运往…的车辆\"指代悬空，问题无法独立成立。"}
+{"qid": "q11582", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8600", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14578", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "fail"}, "note": "“目前”存在歧义，不同阶段进行发动机地面测试的机型不同。应明确指出测试时间。"}
+{"qid": "q11017", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1686", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料称APG-821为新一代雷达，问题所问\"新型号\"与gold APG-633不符。"}
+{"qid": "q11790", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10223", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7057", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7726", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2343", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这艘军舰\"指代不明，单独看问题不知问哪艘舰。"}
+{"qid": "q7926", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14538", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这项测试\"无先行所指，脱离上下文无法确定问哪项测试。"}
+{"qid": "q3767", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13968", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14562", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2007", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10301", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "“未来数月”没有确定的时间作为锚点会导致问题存在歧义。"}
+{"qid": "q11514", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7511", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11080", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7720", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11745", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15279", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8965", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "fail"}, "note": "\"该平台\"指代悬空；且材料中部署地含阿富汗和约旦两个亚洲国家，答案不唯一。"}
+{"qid": "q4128", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9199", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6609", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11007", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5058", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9010", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13147", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10629", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这批装备\"无明确所指，问题无法独立成立。"}
+{"qid": "q8251", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "fail"}, "note": "材料中巡逻执行者前后不一（海军舰队与海岸警卫队均有提及），指向不唯一。"}
+{"qid": "q11478", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这15项核心环节\"无上下文，且材料未述及\"15项核心环节联调试验\"。"}
+{"qid": "q7872", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"剩余的飞行测试任务\"指代不明，单独看不知指哪项测试。"}
+{"qid": "q13231", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14531", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6605", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "fail"}, "note": "“这套装置”指代不明，单独看不知道哪套装置。"}
+{"qid": "q7117", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q3330", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4836", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13672", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4422", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q157", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q549", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2464", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10776", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14498", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "具备从潜艇上发射战略导弹的国家有多个，需要加一定的限制条件。"}
+{"qid": "q9816", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7533", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13211", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8596", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料称魔爪机器人\"曾被大量部署到阿富汗和伊拉克\"，未说是奎奈蒂克公司调配；材料主体是其对巴基斯坦军售合同。"}
+{"qid": "q15241", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8046", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5917", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15149", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q3287", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "fail"}, "note": "\"这套着陆系统\"指代悬空；且作战指挥部与驻欧官员均在部署，答案不唯一。"}
+{"qid": "q4275", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "fail"}, "note": "试飞等工作由俄国防出口公司、苏霍伊设计局和机械制造联合体三方共同完成，\"哪家企业\"不唯一。"}
+{"qid": "q11384", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7982", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7673", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8404", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12600", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13580", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8169", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13286", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7137", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9169", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10913", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14915", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q556", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "fail"}, "note": "一句话同时问船厂和船型两个对象，gold仅含船型，问答不匹配。"}
+{"qid": "q13664", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4767", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5205", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"该系统\"无先行对象，脱离上下文无法确定问哪个系统。"}
+{"qid": "q7522", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15073", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13347", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1619", "human": {"correctness": "pass", "naturalness": "fail", "answerability": "pass", "ambiguity": "pass"}, "note": "“为期七个月的换装新型动力测试”语句不通顺。"}
+{"qid": "q7206", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11331", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "fail"}, "note": "“本周”指代不明，会产生歧义。"}
+{"qid": "q11775", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12904", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8465", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4255", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7448", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15157", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q3009", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6999", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13851", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11963", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料内容为印度总理主持核指挥局会议，未提及大地II导弹核弹头搭载测试。"}
+{"qid": "q7879", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1055", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10657", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4380", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "同期可能有别的国家的舰艇也进行了海事，需要指明是哪个国家。"}
+{"qid": "q14852", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6083", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1591", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q3200", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料是为乔治·华盛顿号2005年干船坞改造提供计划设计，并非\"承建\"该航母。"}
+{"qid": "q12281", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14081", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6761", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2404", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7387", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15066", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q230", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1514", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7417", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9542", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8981", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "gold答案文本\"…海军中对\"疑为\"海军中队\"之误，答案本身有错字。"}
+{"qid": "q15323", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13747", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这款飞行器\"无先行所指，脱离上下文无法作答。"}
+{"qid": "q1365", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10029", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13052", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"该公司\"指代悬空，问题无法独立成立。"}
+{"qid": "q3268", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4079", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1989", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "“本月”具体是哪个月不清晰，且没有哪个国家作为前置约束。"}
+{"qid": "q10207", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q735", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12360", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8985", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4413", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10984", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "应该为“在印度科钦船厂建造的什么舰艇将于2010年底下水”。"}
+{"qid": "q12449", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10440", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5875", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2545", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q87", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5152", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "“去年”是指哪一年指代不清晰。且没有国家、部队作为前置约束，无法回答。"}
+{"qid": "q10922", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9580", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9435", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12649", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15225", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14149", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料讲DTRA的巨型钻地弹静态爆炸试验，未提及B-52携带炸弹飞行测试；gold\"美国国防\"疑为机构名截断。"}
+{"qid": "q8083", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11333", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11843", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2216", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8969", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q3668", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7775", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9662", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这些战机\"无先行所指，脱离上下文无法确定问哪批战机。"}
+{"qid": "q2160", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9828", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "需要有前置约束才能回答。"}
+{"qid": "q14400", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11382", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8297", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "\"这款鱼雷\"指代悬空，问题无法独立成立。"}
+{"qid": "q4775", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1388", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6868", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10985", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2630", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2227", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "pass"}, "note": "首先需要有前置约束，哪个国家，还有“近期”指代不清。"}
+{"qid": "q12875", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料讲的是朱姆沃尔特号润滑油冷却器故障与解决测试，问题称\"淡水冷却器\"与材料不符。"}
+{"qid": "q12858", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15047", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q9624", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5030", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8344", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6775", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6418", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13283", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q2445", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8546", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13264", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q3235", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6181", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q228", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "材料称洛马获选舰载自卫系统SSDS工程代理（面向航母和大甲板两栖舰），未提\"濒海战斗舰和美国海警武装系统\"。"}
+{"qid": "q1747", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q6397", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q14592", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1214", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q842", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q13704", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5702", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q10618", "human": {"correctness": "fail", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}, "note": "gold\"安全解决方案公司\"疑为\"Kratos国防与安全解决方案公司\"之截取，答案文本不完整。"}
+{"qid": "q5812", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q12648", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q421", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q419", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q8392", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7824", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q5390", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q11219", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q4993", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q7402", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "fail", "ambiguity": "fail"}, "note": "\"这次参与演习的航母\"指代不明；材料中多次演习涉及多国海军，航母归属不唯一。"}
+{"qid": "q5366", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q15024", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
+{"qid": "q1995", "human": {"correctness": "pass", "naturalness": "pass", "answerability": "pass", "ambiguity": "pass"}}
